@@ -1,34 +1,25 @@
-**### 💻 Stack Tecnológico
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco_Network-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=%24+whoami;Guillermo+N%C3%A1jera+Am%C3%A9zquita;Full-Stack+Dev+%7C+Redes+%7C+Telecom;%3E+cat+%2Fdev%2Fskills" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">Ingeniero en Telecomunicaciones &bull; Full-Stack Web &bull; Arquitectura de Redes</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=guillermonazt-crypto&label=Visitas&color=FF00FF&style=flat" alt="profile views" />
 </p>
-### 📊 Mis Estadísticas
-[Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=guillermonazt-crypto&show_icons=true&theme=tokyonight)
-[Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=guillermonazt-crypto&layout=compact&theme=tokyonight)
-**<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cyber.png" width="100%">
-  
-  <h1><code>>&nbsp;SISTEMA_INICIADO...</code></h1>
-  
-  <p>
-    <a href="https://github.com/guillermonazt-crypto">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=200&section=header&text=Guillermo%20Nájera&fontSize=50&fontAlignY=35&desc=Ingeniero%20en%20Telecomunicaciones%20%7C%20Full-Stack%20Dev&descAlignY=55&descSize=20&fontColor=ffffff"/>
-    </a>
-  </p>
-</div>
 
-### 👾 `~/terminal/bio`
+---
 
-```console
-$ whoami
-> Ing. Guillermo Nájera Amézquita
-> Especialista en desarrollo de sistemas web y redes.
+```bash
+$ nmap -sV -p 1-65535 guillermonazt-crypto
 
-$ cat intereses.txt
-> Construyendo aplicaciones de alto rendimiento.
-> Automatización, hardware y arquitectura de redes.
+PORT      STATE   SERVICE        VERSION
+22/tcp    open    ssh            OpenSSH (administración de servidores)
+8000/tcp  open    http-alt       Django (APIs & backend plataforma Izama)
+5173/tcp  open    http           Vue.js / React (interfaces de usuario dinámicas)
+8086/tcp  open    influxdb       InfluxDB (almacenamiento de series temporales)
+3000/tcp  open    grafana        Grafana (S.O.N.A.R. dashboards y telemetría)
+2000/tcp  open    cisco-sccp     Cisco IOS (configuraciones de switching CCNA)
+
+MAC Address: 18:10:93:AA:BB:CC (Pachuca_TX)
+Service Info: OS: Windows Insider / Linux; Hardware: Cisco Catalyst / M16 R2
