@@ -7,3 +7,6 @@
   <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco_Network-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
+### 📊 Mis Estadísticas
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=guillermonazt-crypto&show_icons=true&theme=tokyonight)
+![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=guillermonazt-crypto&layout=compact&theme=tokyonight)
